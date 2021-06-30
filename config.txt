@@ -1,0 +1,6 @@
+speed = 400
+level = level
+health = 100
+r = 200
+g = 200
+b = 255
